@@ -1,0 +1,9 @@
+1 - Auto completar dados com API
+    
+2 - Trocar base para excel local - ok
+
+3 - Editar CRC selecionado
+
+4 - Apagar CTC selecionado
+
+5 - Entender o que não está colando (aumentar tamanho dos campos?)
